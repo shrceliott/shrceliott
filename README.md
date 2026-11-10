@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Salut moi c'est Eliott, je suis actuellement en BTS chez coda</p>
+<p data-importer="text" align="left">Salut moi c'est Eliott, je suis actuellement chez coda</p>
 
 ###
 
